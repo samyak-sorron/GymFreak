@@ -1,4 +1,4 @@
-import useMediaQuery from "../../hooks/useMediaQuery";
+// import useMediaQuery from "../../hooks/useMediaQuery";
 import { SelectedPage } from "../../shared/types";
 import ActionButton from "../Navbar/ActionButton";
 import HomePageText from "@/assets/assets/HomePageText.png";
