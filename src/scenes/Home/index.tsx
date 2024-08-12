@@ -14,7 +14,7 @@ type Props = {
 }
 
 const Home = ({setSelectedPage}: Props) => {
-    const isAboveMediumScreens = useMediaQuery("(max-width: 1060px)");
+    // const isAboveMediumScreens = useMediaQuery("(max-width: 1060px)");
   return (
     <section
         id="home"
